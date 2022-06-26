@@ -8,5 +8,18 @@
         "password": "8976644h",
         "opcao": "1"
       }
+    ],
+    "empresa": [
+      {
+        "id": 3,
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNhhS7f13zM5OTsNmUhjuNKKKcpt3dxBAHodPfl=k-no-n-w90-h128",
+        "telefone": "31983060392",
+        "cep": "32.071-173",
+        "rua": "Rua Pedra da Luz",
+        "bairro": "Sapucaia II",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "num": "100"
+      }
     ]
   }
