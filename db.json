@@ -5,7 +5,7 @@
         "email": "eolavos@pets.com.br",
         "cep": "3434343434343",
         "cnpj": "sdjfsdfihsdfjh",
-        "password": "8976644h",
+        "password": "ABc12@00",
         "opcao": "1"
       }
     ],
@@ -15,11 +15,44 @@
         "img": "https://lh5.googleusercontent.com/p/AF1QipNhhS7f13zM5OTsNmUhjuNKKKcpt3dxBAHodPfl=k-no-n-w90-h128",
         "telefone": "31983060392",
         "cep": "32.071-173",
-        "rua": "Rua Pedra da Luz",
+        "rua": "Av. Dr. João Augusto Fonseca e Silva",
+        "bairro": "Novo Eldorado",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "num": "876"
+      },
+      {
+        "id": 4,
+        "img": "https://lh5.googleusercontent.com/p/AF1QipOt4YW_fkYv3ZBESUbW3IcRrt9fEy-mSU_vuHhh=w408-h306-k-no",
+        "telefone": "03125681751",
+        "cep": "32341-100",
+        "rua": "Av. Dr. João Augusto Fonseca e Silva",
         "bairro": "Sapucaia II",
         "cidade": "Contagem",
         "uf": "MG",
-        "num": "100"
+        "num": "876"
+      },
+      {
+        "id": 5,
+        "img": "https://lh5.googleusercontent.com/p/AF1QipP1EHePklORq5i5FsTGK50lMnPc_9BgKDKxbObF=w408-h271-k-no",
+        "telefone": "03135654001",
+        "cep": "32280-270",
+        "rua": "Av. Francisco Firmo de Matos",
+        "bairro": "Riacho das Pedras",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "num": "1503"
+      },
+      {
+        "id": 6,
+        "img": "https://lh5.googleusercontent.com/p/AF1QipP9Rx3bZg9C7Ss_i_ITSHKr_hO52GGOfpMxMIHv=w408-h271-k-no",
+        "telefone": "03135654001",
+        "cep": "31720-300",
+        "rua": "Av. Dr. Cristiano Guimarães",
+        "bairro": "Planalto",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "num": "1302"
       }
     ]
   }
